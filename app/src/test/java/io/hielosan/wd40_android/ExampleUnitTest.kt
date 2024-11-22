@@ -1,4 +1,4 @@
-package io.hielosan.`wd40-android`
+package io.hielosan.wd40_android
 
 import org.junit.Test
 

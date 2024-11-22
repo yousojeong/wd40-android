@@ -1,4 +1,4 @@
-package io.hielosan.`wd40-android`.ui.theme
+package io.hielosan.wd40_android.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
