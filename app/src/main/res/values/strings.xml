@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">wd40_android</string>
+    <string name="placeholder_search">Search</string>
+    <string name="ab1_inversions">Inversion</string>
+    <string name="fc2_nature_meditations">Sefl-message</string>
+    <string name="align_your_body">Align your Body</string>
+    <string name="favorite_collections">favorite_collections</string>
+    <string name="home">Home</string>
+    <string name="profile">profile</string>
 </resources>
