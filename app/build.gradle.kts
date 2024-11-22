@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "io.hielosan.wd40-android"
+    namespace = "io.hielosan.wd40_android"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "io.hielosan.wd40-android"
+        applicationId = "io.hielosan.wd40_android"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -66,4 +66,6 @@ dependencies {
     androidTestImplementation("androidx.compose.ui:ui-test-junit4")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
+
+    implementation("androidx.compose.material:material-icons-extended")
 }

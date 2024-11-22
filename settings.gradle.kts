@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "wd40-android"
+rootProject.name = "wd40_android"
 include(":app")
  
