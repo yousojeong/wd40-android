@@ -66,4 +66,7 @@ dependencies {
     androidTestImplementation("androidx.compose.ui:ui-test-junit4")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
+
+    // viewModel() 함수 사용
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:{latest_version}")
 }
